@@ -38,8 +38,8 @@ A folder containing a test.ligo file which we use as a ligo test for compiling.
 
 A folder containing a collection of contracts and testing file.
 
--   A collection of NFT and marketplace smart contracts
--   Typescript bindings to enable easy communication with the deployed contracts
+-   A collection of NFT and marketplace smart contracts.
+-   Typescript bindings to enable easy communication with the deployed contracts.
 
 ## Beacon
 
