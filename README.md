@@ -10,8 +10,8 @@ in the coming weeks.
 
 Tezos-Test offers a set of packages to bring creation, management, test, communication and sales of NFTs in Pascal ligo.
 -   A collection of test, NFT and marketplace smart contracts
--   Following [DIDkit](https://forklog.com/sp/dev-on-tezos/en/tezos-introduction) integration for verified creator credentials
-
+-   Following [forklog.com](https://forklog.com/sp/dev-on-tezos/en/tezos-introduction) integration for verified creator credentials
+-   A wallet will store your keys and can also fulfil other tasks, like signing transactions(https://tezos.b9lab.com/beacon)
 ---
 ## Project Organization
 -   `Tezos-Test` is organized as a mono repository from which several tests are built and published, following the steps in the link bellow:
@@ -25,6 +25,7 @@ Tezos-Test offers a set of packages to bring creation, management, test, communi
 | [`@Tezos-Test/taq-test`]                                  | NFT smart contract TypeScript bindings   |
 | [`@Tezos-Test/taq-test/token`]                            | Creating an FA 1.2 Token                 |
 | [`@ligo`]                                                 | Command to Run docker image              |
+| [`@Beacon`]                                               | Beacon is an interface between such a wallet and your application              |
 
 ## ligo
 A file that help us to manage a issue in ligo Docker Image “ligo: command not found”, it means Docker prematurely closes the LIGO container.
@@ -40,5 +41,8 @@ A folder containing a collection of contracts and testing file.
 -   A collection of NFT and marketplace smart contracts
 -   Typescript bindings to enable easy communication with the deployed contracts
 
+## Beacon
+
+Comming soon, next to commit.
 
 
