@@ -50,6 +50,6 @@ Beacon is the implementation of the tzip-10 proposal, which describes an interac
 
 ## contracts
 
--   A folder containing a collection of contracts of FA2 contracts that support ERC-1155(multi_asset3) and ERC-721 (nft_asset2) and testing files.
+A folder containing a collection of contracts of FA2 contracts that support ERC-1155(multi_asset3) and ERC-721 (nft_asset2) and testing files.
 
 
