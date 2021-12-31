@@ -25,7 +25,7 @@ Tezos-Test offers a set of packages to bring creation, management, test, communi
 | [`@Tezos-Test/taq-test`]                                  | NFT smart contract TypeScript bindings   |
 | [`@Tezos-Test/taq-test/token`]                            | Creating an FA 1.2 Token                 |
 | [`@ligo`]                                                 | Command to Run docker image              |
-| [`@Beacon`]                                               | Beacon is an interface between such a wallet and your application              |
+| [`@Beacon-sdk`]                                               | Beacon is an interface between such a wallet and your application              |
 
 ## ligo
 A file that help us to manage a issue in ligo Docker Image “ligo: command not found”, it means Docker prematurely closes the LIGO container.
@@ -41,7 +41,7 @@ A folder containing a collection of contracts and testing file.
 -   A collection of NFT and marketplace smart contracts.
 -   Typescript bindings to enable easy communication with the deployed contracts.
 
-## Beacon
+## Beacon-sdk
 
 Comming soon, next to commit.
 
