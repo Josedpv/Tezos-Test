@@ -8,7 +8,7 @@ in the coming weeks.
 
 ## Tezos-Test
 
-Tezos-Test offers a set of packages to bring creation, management, test, communication and sales of NFTs in Pascal ligo.
+Tezos-Test offers a set of packages to bring creation, management, test, communication and sales of NFTs in Ocalm.
 -   A collection of test, NFT and marketplace smart contracts
 -   Following [forklog.com](https://forklog.com/sp/dev-on-tezos/en/tezos-introduction) integration for verified creator credentials
 -   A wallet will store your keys and can also fulfil other tasks, like signing transactions(https://github.com/airgap-it/beacon-sdk)
